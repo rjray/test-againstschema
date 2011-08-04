@@ -1,0 +1,15 @@
+Build
+_build
+blib
+*.html
+ChangeLog
+MANIFEST
+META.yml
+MYMETA.yml
+Makefile.PL
+README
+MYMETA.json
+cover_db
+.project
+META.json
+.DS_Store
